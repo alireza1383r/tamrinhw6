@@ -1,5 +1,5 @@
 #include <stdio.h>
 int calculat(int a, int b){
-  // some calculation
-return a*b;
+  // different calculations
+return a*b*2-10;
 }
